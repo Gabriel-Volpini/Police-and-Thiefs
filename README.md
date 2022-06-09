@@ -1,4 +1,4 @@
-# Police and Thiefs
+# Policia e ladrão.
  Algoritmo para resolver o problema polícia ladrão. Dado um array de tamanho N em que cada elemento é polícia ou ladrão. O problema possui as seguintes especificações:
     
     - Cada policial pode capturar apenas um ladrão;
